@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242" height="128" viewBox="0 0 242 128">
+  <g id="Group_24" data-name="Group 24" transform="translate(-562 -3205)">
+    <text id="Roti_Maros_Studio" data-name="Roti Maros Studio" transform="translate(562 3326)" fill="#967057" font-size="30" font-family="Gilroy-Light, Gilroy" font-weight="300"><tspan x="0" y="0">Roti Maros Studio</tspan></text>
+    <g id="Group_23" data-name="Group 23" transform="translate(558.853 3340.542)">
+      <g id="Group_15" data-name="Group 15" transform="translate(84.147 -135.542)">
+        <path id="Path_12" data-name="Path 12" d="M335.468,272.565H307.017a3.557,3.557,0,0,1-2.514-6.071l28.451-28.451a3.556,3.556,0,0,1,6.071,2.514v28.451A3.556,3.556,0,0,1,335.468,272.565ZM315.6,265.451h16.309V249.142Z" transform="translate(-303.46 -237)" fill="#e2dada"/>
+        <path id="Path_13" data-name="Path 13" d="M335.468,293.547a3.561,3.561,0,0,1-2.514-1.041L304.5,264.055a3.556,3.556,0,0,1,2.514-6.071h28.451a3.554,3.554,0,0,1,3.557,3.555V289.99a3.554,3.554,0,0,1-3.557,3.557ZM315.6,265.1l16.309,16.309V265.1Z" transform="translate(-303.46 -215.549)" fill="#e2dada"/>
+        <path id="Path_14" data-name="Path 14" d="M356.452,272.563H328a3.556,3.556,0,0,1-3.557-3.557V240.555a3.556,3.556,0,0,1,6.071-2.514l28.451,28.451a3.557,3.557,0,0,1-2.514,6.071Zm-24.9-7.114h16.309L331.556,249.14Z" transform="translate(-282.009 -236.998)" fill="#e2dada"/>
+        <path id="Path_15" data-name="Path 15" d="M356.453,293.549H328a3.556,3.556,0,0,1-2.516-6.071l28.451-28.451a3.556,3.556,0,0,1,6.071,2.514v28.451A3.554,3.554,0,0,1,356.453,293.549Zm-19.866-7.112H352.9V270.127Z" transform="translate(-282.009 -215.55)" fill="#e2dada"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+@media screen and (max-width : 1366px){
+	.res{
+		height: 100px;
+		width: 100px;
+		background-color: red;
+	}
+}
+@media screen and (max-width:360px){
+
+.res{
+	height: 100px;
+	width: 100%;
+	background-color: blue;
+}
+.logoo{
+	width: 50px
+}
+
+}
